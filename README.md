@@ -1,5 +1,13 @@
 # MyVal
-
+ 
+ 
+ The PWA version of site can be accessed here : https://vigorous-davinci-8b742e.netlify.app/
+ The website has been converted as installable to be installed in android devices. 
+ 
+## Steps 
+1. Open the site in any android phone in chrome and wait for the option, add to home screen.
+2. Now wait for install to finish and done, enjoy.
+ 
 ## Description:
 MyVal is a website which allows you to keep a record of all your financial assets and liabilities. It helps you keep track of your investments and helps you to make a healthy portfolio. As the saying goes- "Never put all your eggs in one basket" , a diverse portfolio and risk management is key to a good investment strategy and MyVal helps you to keep that in check.To top it off, MyVal also comes with calculators for Fixed Deposits, EMIs and gold. 
 
