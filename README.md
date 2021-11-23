@@ -1,7 +1,7 @@
 # MyVal
  
  
- The PWA version of site can be accessed here : https://vigorous-davinci-8b742e.netlify.app/
+ The PWA version of site can be accessed here : https://myvalapp.netlify.app/
  The website has been converted as installable to be installed in android devices. 
  
 ## Steps 
