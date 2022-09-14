@@ -4,6 +4,8 @@
  The PWA version of site can be accessed here : https://myvalapp.netlify.app/
  The website has been converted as installable to be installed in android devices. 
  
+ by Paryushi Jain, Mohit Chourasia, Shashwat Johri
+ 
 ## Steps 
 1. Open the site in any android phone in chrome and wait for the option, add to home screen.
 2. Now wait for install to finish and done, enjoy.
